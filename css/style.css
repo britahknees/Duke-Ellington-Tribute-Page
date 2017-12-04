@@ -1,0 +1,16 @@
+body {
+  margin-top: 50px;
+  font-family: Candara, Calibri,Segoe, Segoe UI, Optima, Arial, sans-serif;
+  font-size: 16px;
+  background-color: #ffffff}
+h2 {
+  font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  font-style: italic;}
+div {
+    width: 930px;
+    margin: auto;}
+.jumbotron h1{
+  font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.1em; 
+  color: #938172;}
